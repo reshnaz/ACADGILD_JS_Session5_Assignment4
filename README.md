@@ -2,7 +2,7 @@
 
 Using JavaScript Constructor Object & Functions
 
-Note: Please preview this html and hit F12 to access developer console.
+Note: Please preview the html and hit F12 to access developer console.
 
 Problem Statement:
 
